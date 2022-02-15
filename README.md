@@ -1,13 +1,19 @@
 Welcome! 
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
+This is Niu. 
 
-This template provides a skeleton file structure that you can edit to create your book. 
+This is my non-fiction writing drafts.
 
+About **Essays**, **notes**, etc.
+
+Notes:
 The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
 
 Additional resources:
 
 The **bookdown** book: https://bookdown.org/yihui/bookdown/
 
-The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
+The **stackoverflow**: https://stackoverflow.com/questions/tagged/bookdown+r
+
+The **studio community**: https://community.rstudio.com/tags/c/R-Markdown/10/bookdown
+
