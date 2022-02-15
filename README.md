@@ -2,7 +2,7 @@ Welcome!
 
 This is Aquietcrow. 
 
-This is my non-fiction writing drafts.
+This includes my non-fiction writing drafts.
 
 About **articles**,**essays**, **notes**, etc.
 
