@@ -1,2 +1,3 @@
 # nonfiction-drafts
-essays
+-essays
+-notes
