@@ -4,7 +4,7 @@ This is Aquietcrow.
 
 This includes my non-fiction writing drafts.
 
-About **articles**,**essays**, **notes**, etc.
+About **articles**, **essays**, **notes**, etc.
 
 Notes:
 The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
